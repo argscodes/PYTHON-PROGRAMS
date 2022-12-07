@@ -1,0 +1,7 @@
+#WRITE A PROGRAM TO INPUT A NUMBER AND PRINT WHETHER
+#THE NUMBER ENTERED IS MULTIPLE OF 5 OR NOT
+num=int(input("enter a number...."))
+if num%5==0:
+    print(num,"is multiple of 5")
+else:
+    print(num,"is not multiple of 5")

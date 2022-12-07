@@ -1,0 +1,7 @@
+#WRITE A PROGRAM TO INPUT AGE OF A PERSON AND PRINT
+#WHETHER THE PERSON CAN VOTE OR NOT
+age=int(input("enter the age...."))
+if age>=18:
+    print("the person can vote")
+else:
+    print("the person can not vote")

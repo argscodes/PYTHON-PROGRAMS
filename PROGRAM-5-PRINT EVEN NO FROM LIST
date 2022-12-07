@@ -1,0 +1,6 @@
+# program on lists
+# program to input a list of integers and print only even integers
+l=eval(input("enter numbers......"))
+for i in l:
+       if i%2==0:
+              print(i)
